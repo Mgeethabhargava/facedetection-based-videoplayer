@@ -1,1 +1,1 @@
-# facedetection-based-videoplayer deployed at https://facebasedvideoplayer.000webhostapp.com/
+# facedetection-based-videoplayer deployed at https://facebasedvideoplayer.herokuapp.com/
