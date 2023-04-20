@@ -1,1 +1,1 @@
-# facedetection-based-videoplayer deployed at https://facebasedvideoplayer.herokuapp.com/
+# facedetection-based-videoplayer using opencv.js, js  and html
